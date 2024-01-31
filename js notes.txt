@@ -1,0 +1,6 @@
+	when we calculate float numbers in js or other codeing languages
+one way to avoid the problem of the inacurate calculation of float numbers 
+"specialy when you calculate money" is :
+
+	calculating with cents instede of dolors
+	as example--> 22.99$ = (2299)/100
